@@ -1,0 +1,6 @@
+{
+  "name": "OmeSphere - End-to-End Encrypted WebRTC Video Chat",
+  "description": "Connect instantly with strangers worldwide via peer-to-peer WebRTC video chat with end-to-end encryption, interest matching, and live text messaging.",
+  "requestFramePermissions": ["camera", "microphone", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
